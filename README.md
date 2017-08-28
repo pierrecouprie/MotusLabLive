@@ -17,7 +17,7 @@ The library has currently been tested on Mac OS X with Max 7.x.
 
 ## Development Status
 
-**MotusLab Recorder IS CURRENTLY IN BETA**
+**MotusLab Live IS CURRENTLY IN BETA**
 
 ## Credits
 
@@ -25,4 +25,4 @@ This software has been designed and developed by [Pierre Couprie](http://www.pie
 
 ## License
 
-MotusLab Recorder is copyright (c) 2017 Pierre Couprie under license CeCILL 2.1.
+MotusLab Live is copyright (c) 2017 Pierre Couprie under license CeCILL 2.1.
